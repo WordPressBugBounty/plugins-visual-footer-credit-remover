@@ -1,0 +1,1 @@
+# plugins-visual-footer-credit-remover
